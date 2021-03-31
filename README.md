@@ -1,6 +1,14 @@
 # edgemisc
 Edgenuity toggles to enable/disable things
 
+# Installation
+To load this, go into a lesson and paste this into the console:
+```javascript
+$.getScript("https://webmsgr.github.io/edgemisc/edgemisc.js")
+```
+
+Bookmark version (Drag into bookmarks bar, click to activate): <a href='javascript:$.getScript("https://webmsgr.github.io/edgemisc/edgemisc.js");void(0);'>edgemisc</a>
+
 # Planned Features
 
 1. Setting reviewMode:
